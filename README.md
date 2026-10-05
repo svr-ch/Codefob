@@ -18,21 +18,21 @@ I focus on turning operational complexity into automation, dependable pipelines,
 
 ## 🚀 Featured Project
 
-### Project Name Here
+### GitHub Actions Integration with AKS
 
-<!-- Replace with a project you've built and pushed to GitHub. -->
+A hands-on Azure DevOps project that provisions AKS with Terraform and deploys a containerized application through GitHub Actions.
 
-A short description of what the project does and why.
+Uses GitHub OIDC federation for passwordless Azure authentication
+Provisions AKS infrastructure and node pools with Terraform
+Integrates AKS with Azure Container Registry using managed identities and AcrPull RBAC
+Builds and pushes Docker images to ACR
+Deploys Kubernetes workloads and a public load-balancer service
 
-- Key feature or design decision
-- Key feature or design decision
-- Key feature or design decision
-
-**Stack:** Azure, ...
+**Stack:**  Azure, AKS, ACR, Terraform, GitHub Actions, Docker, Kubernetes, OIDC, RBAC
 
 ## 📚 Current Focus
 
-I am expanding my work in Azure infrastructure and platform engineering, including networking, Infrastructure as Code, and secure cloud architecture.
+I am currently expanding my work in production GenAI, agentic systems, AI observability, MLOps, secure model delivery, and cost-aware inference platforms on Azure.
 
 ## 🧰 Technology Stack
 
@@ -54,8 +54,8 @@ I am expanding my work in Azure infrastructure and platform engineering, includi
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/svr-ch](https://github.com/svr-ch)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/srinivasaraju-chintalapati-1b77b722/)
+- **GitHub:** [github.com/svr-ch](https://github.com/svr-ch/Codefob)
 
 ---
 
