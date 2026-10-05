@@ -1,4 +1,4 @@
-## Shiva Velpula | Senior Cloud, DevOps, SRE and AI/MLOps Engineer
+## Srinivasaraju Chintalapati | Senior Cloud, DevOps, SRE and AI/MLOps Engineer
 
 I design, automate, and operate secure cloud-native platforms for large-scale workloads. My work spans Azure infrastructure, Kubernetes platform engineering, CI/CD, Infrastructure as Code, observability, reliability engineering, and production AI/ML systems.
 
@@ -49,8 +49,8 @@ I am currently expanding my work in production GenAI, agentic systems, AI observ
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/shivavelpula](https://www.linkedin.com/in/shivavelpula)
-- **GitHub:** [github.com/codefob](https://github.com/codefob)
+- **LinkedIn:** [linkedin.com/in/shivavelpula](https://www.linkedin.com/in/srinivasaraju-chintalapati-1b77b722/)
+- **GitHub:** [github.com/codefob](https://github.com/svr-ch/Codefob/)
 
 ---
 
