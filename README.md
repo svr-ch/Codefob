@@ -49,7 +49,7 @@ I am currently expanding my work in production GenAI, agentic systems, AI observ
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/shivavelpula](https://www.linkedin.com/in/srinivasaraju-chintalapati-1b77b722/)
+- **LinkedIn:** [linkedin.com/in/Srinivasaraju Chintalapati](https://www.linkedin.com/in/srinivasaraju-chintalapati-1b77b722/)
 - **GitHub:** [github.com/codefob](https://github.com/svr-ch/Codefob/)
 
 ---
